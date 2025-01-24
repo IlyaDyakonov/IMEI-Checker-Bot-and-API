@@ -86,3 +86,5 @@ uvicorn main:app --host 0.0.0.0 --port 8000
 * Токены для API указаны в коде в классе IMEIChecker в переменной api_token_imei.
 
 * Токен Вашего телеграмм бота добавьте в переменную TOKEN.
+
+# Обратная связь [@theApuoX](https://t.me/theApuoX)
